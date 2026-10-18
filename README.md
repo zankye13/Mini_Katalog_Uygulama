@@ -3,13 +3,30 @@
 Müzik enstrümanları ve ses ekipmanları için bir e-ticaret mini kataloğu olarak tasarlanmış; temiz, modern ve yayına hazır bir Flutter mobil uygulaması. **Temiz Mimari (Clean Architecture) İlkeleri**, modüler dosya yapısı ve güçlü durum yönetimi (state management) standartlarına tam uyumlu olarak geliştirilmiştir.
 
 ## Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
-| Ana Sayfa (Grid Görünümü) | Ürün Detay Sayfası | Sepetim (Adet Yönetimi) | Boş Sepet Durumu | 
-| ----- | ----- | ----- | ----- | 
-| <img src="mini_katalog\Screenshots\home_screen.png" width="250"> 
-| <img src="mini_katalog\Screenshots\product_detail.png" width="250">
-| <img src="mini_katalog\Screenshots\cart_list.png" width="250">
-| <img src="mini_katalog\Screenshots\empty_cart.png" width="250"> | 
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="25%">
+        <b>Ana Sayfa</b><br><br>
+        <img src="assets/screenshots/home_screen.png" width="200" alt="Ana Sayfa">
+      </td>
+      <td align="center" width="25%">
+        <b>Ürün Detay</b><br><br>
+        <img src="assets/screenshots/detail_screen.png" width="200" alt="Ürün Detay">
+      </td>
+      <td align="center" width="25%">
+        <b>Sepetim</b><br><br>
+        <img src="assets/screenshots/cart_screen.png" width="200" alt="Sepetim">
+      </td>
+      <td align="center" width="25%">
+        <b>Boş Sepet</b><br><br>
+        <img src="assets/screenshots/empty_cart.png" width="200" alt="Boş Sepet">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Öne Çıkan Özellikler
 
