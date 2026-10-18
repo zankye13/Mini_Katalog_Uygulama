@@ -10,19 +10,19 @@ Müzik enstrümanları ve ses ekipmanları için bir e-ticaret mini kataloğu ol
     <tr>
       <td align="center" width="25%">
         <b>Ana Sayfa</b><br><br>
-        <img src="assets/screenshots/home_screen.png" width="200" alt="Ana Sayfa">
+        <img src="mini_katalog\Screenshots\home_screen.png" width="200" alt="Ana Sayfa">
       </td>
       <td align="center" width="25%">
         <b>Ürün Detay</b><br><br>
-        <img src="assets/screenshots/detail_screen.png" width="200" alt="Ürün Detay">
+        <img src="mini_katalog\Screenshots\product_detail.png" width="200" alt="Ürün Detay">
       </td>
       <td align="center" width="25%">
         <b>Sepetim</b><br><br>
-        <img src="assets/screenshots/cart_screen.png" width="200" alt="Sepetim">
+        <img src="mini_katalog\Screenshots\cart_list.png" width="200" alt="Sepetim">
       </td>
       <td align="center" width="25%">
         <b>Boş Sepet</b><br><br>
-        <img src="assets/screenshots/empty_cart.png" width="200" alt="Boş Sepet">
+        <img src="mini_katalog\Screenshots\empty_cart.png" width="200" alt="Boş Sepet">
       </td>
     </tr>
   </table>
